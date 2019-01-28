@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Interactive Table
-Plugin URI: http://www.rmweblab.com
+Plugin URI: N/A
 Description: A dynamic, clean & responsive table for your contents.
-Author: RM Web Lab
+Author: Saddam Hossain Azad
 Version: 1.1.0
-Author URI: http://rmweblab.com
+Author URI: N/A
 *****/ 
 
 class Interactive_Table {
