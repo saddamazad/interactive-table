@@ -1,1 +1,1 @@
-# interactive-table
+# interactive-table plugin for WP
